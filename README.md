@@ -6,6 +6,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 - [LinkedIn](https://www.linkedin.com/in/arslan-atakhanov)
 - [LeetCode](https://leetcode.com/u/leo_go/)
+- [HackerRank](https://www.hackerrank.com/profile/arslan_atakhanov)
 
 ## 📊 My GitHub Stats
 
