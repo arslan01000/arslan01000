@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m [Arslan Atakhanov], a passionate developer!
+I’m **Arslan Atakhanov**, a passionate developer!
 
 ## 🌐 Connect with Me
 
