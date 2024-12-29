@@ -2,7 +2,8 @@
 
 I’m **Arslan Atakhanov**, a passionate developer!
 
-## 🌐 Connect with Me
+
+## 🌐 Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/arslan-atakhanov)
 - [LeetCode](https://leetcode.com/u/leo_go/)
@@ -16,4 +17,4 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arslan01000&theme=radical)
 
-- 🔭 I’m currently working on **Python_23_Ptoject** (see my wort at repositories/python-23)
+- 🔭 I’m currently working on **Python_23_Ptoject** (see my wort at repositories/python-23..)
