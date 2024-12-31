@@ -17,4 +17,5 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arslan01000&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan01000&layout=compact&theme=radical)
+
+Currently working on python-23 project (find at repositories/python-23..)
