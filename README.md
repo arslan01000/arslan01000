@@ -15,7 +15,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=arslan01000&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arslan01000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arslan01000&theme=dark&border_radius=4.4&card_width=470)](https://git.io/streak-stats)
 
 
 Currently working on python-23 project (find at repositories/python-23..)
