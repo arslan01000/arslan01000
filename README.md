@@ -17,22 +17,17 @@ I’m **Arslan Atakhanov**, a passionate developer!
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Test
+## 📊 My GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan01000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arslan01000&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan01000&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![My GitHub Gists](https://github-readme-gist.vercel.app/api/gists?id=YOUR_GIST_ID&theme=dark)](https://gist.github.com/arslan01000)
 
 
-
-## 📊 My GitHub Stats
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arslan01000.arslan01000)
 
