@@ -27,9 +27,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arslan01000&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![Random Dev Meme](https://random-memer.herokuapp.com/)
 
 ![GitHub Snake Animation](https://github.com/arslan01000/arslan01000/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -44,8 +42,6 @@ I’m **Arslan Atakhanov**, a passionate developer!
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arslan01000.arslan01000)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan01000&show_icons=true&locale=en&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=arslan01000&layout=compact&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arslan01000)](https://git.io/streak-stats)
 
