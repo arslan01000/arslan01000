@@ -20,7 +20,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ## 📊 My GitHub Stats
 
-![Visitors](https://img.shields.io/badge/dynamic/json?color=black&label=Visitors&query=value&url=https://api.countapi.xyz/hit/arslan01000/visits&style=flat-square)
+![Profile Views](https://hits.sh/arslan01000.svg?style=dark)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arslan01000.arslan01000)
 
