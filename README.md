@@ -17,6 +17,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+
 ## 📊 My GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan01000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,7 +34,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan01000&show_icons=true&locale=en&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arslan01000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arslan01000&theme=dark)](https://git.io/streak-stats)
 
 
 Currently working on python-23 project (find at repositories/python-23..)
