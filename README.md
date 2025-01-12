@@ -20,7 +20,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ## 📊 My GitHub Stats
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arslan01000.arslan01000&theme=dark)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arslan01000.arslan01000)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan01000&show_icons=true&locale=en&theme=radical)
 
