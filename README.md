@@ -23,7 +23,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan01000&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan01000&show_icons=true&locale=en&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan01000&show_icons=true&locale=en&theme=dark)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan01000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
