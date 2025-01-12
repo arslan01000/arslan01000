@@ -30,8 +30,6 @@ I’m **Arslan Atakhanov**, a passionate developer!
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-![GitHub Snake Animation](https://github.com/arslan01000/arslan01000/blob/output/github-contribution-grid-snake-dark.svg)
-
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan01000&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![My GitHub Gists](https://github-readme-gist.vercel.app/api/gists?id=YOUR_GIST_ID&theme=dark)](https://gist.github.com/arslan01000)
