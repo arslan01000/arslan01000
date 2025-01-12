@@ -27,6 +27,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arslan01000&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ![GitHub Snake Animation](https://github.com/arslan01000/arslan01000/blob/output/github-contribution-grid-snake-dark.svg)
