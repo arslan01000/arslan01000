@@ -21,8 +21,6 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan01000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Arslan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arslan01000&theme=dark)](https://wakatime.com/@arslan01000)
-
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arslan01000&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
