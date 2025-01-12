@@ -19,6 +19,8 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ## Test
 
+![Snake animation](https://github.com/arslan01000/arslan01000/blob/output/github-contribution-grid-snake.svg)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan01000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Arslan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arslan01000&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
