@@ -3,7 +3,7 @@
 I’m **Arslan Atakhanov**, a passionate developer!
 
 
-## 🌐 Connect with Me:
+## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/arslan-atakhanov)
 - [LeetCode](https://leetcode.com/u/leo_go/)
