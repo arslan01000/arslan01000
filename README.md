@@ -28,7 +28,9 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan01000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=arslan01000&theme=dark&hide_border=true)
+
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-7%20Days-green?style=flat-square&logo=github)
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
