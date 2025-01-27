@@ -23,11 +23,6 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ## 📊 My GitHub Stats
 
-# GitHub Streak Tracker
-
-![GitHub Streak](https://img.shields.io/badge/Current_Streak-5_days-blue?style=for-the-badge)
-
-
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan01000&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslan01000&show_icons=true&locale=en&theme=dark)
@@ -35,6 +30,8 @@ I’m **Arslan Atakhanov**, a passionate developer!
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslan01000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=arslan01000&theme=dark&hide_border=true)
+
+![GitHub Streak](https://img.shields.io/badge/Current_Streak-5_days-blue?style=for-the-badge)
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-7%20Days-green?style=flat-square&logo=github)
 
