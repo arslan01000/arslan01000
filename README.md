@@ -31,7 +31,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=arslan01000&theme=dark&hide_border=true)
 
-![GitHub Streak](https://img.shields.io/badge/Current_Streak-5_days-blue?style=for-the-badge)
+![GitHub Streak](https://img.shields.io/badge/Current_Streak-6_days-blue?style=for-the-badge)
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-7%20Days-green?style=flat-square&logo=github)
 
