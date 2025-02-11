@@ -31,7 +31,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=arslan01000&theme=dark&hide_border=true)
 
-![GitHub Streak](https://img.shields.io/badge/Current_Streak-0_days-blue?style=for-the-badge)
+![GitHub Streak](https://img.shields.io/badge/Current_Streak-2_days-blue?style=for-the-badge)
 
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
