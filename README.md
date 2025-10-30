@@ -38,4 +38,4 @@ I’m **Arslan Atakhanov**, a passionate developer!
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arslan01000.arslan01000)
 
 
-Currently working on python-23 project (find at repositories/python-23..)
+Currently working on /kel-chai-ich along w @Aibiike
