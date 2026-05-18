@@ -38,4 +38,4 @@ I’m **Arslan Atakhanov**, a passionate developer!
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arslan01000.arslan01000)
 
 
-Currently working on /kel-chai-ich along w @Aibiike
+Currently working on /NLP-Based Sentiment Analysis of Twitter & Reddit Discussions
