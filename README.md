@@ -6,7 +6,7 @@ I’m **Arslan Atakhanov**, a passionate developer!
 
 ## 🌐 Connect with Me:
 
-- [Portfolio Website](https://www.linkedin.com/in/arslan-atakhanov)
+- [Portfolio Website](https://arslan01000.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/arslan-atakhanov)
 - [LeetCode](https://leetcode.com/u/leo_go/)
 - [HackerRank](https://www.hackerrank.com/profile/arslan_atakhanov)
